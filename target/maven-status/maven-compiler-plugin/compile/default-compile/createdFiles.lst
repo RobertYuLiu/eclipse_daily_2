@@ -1,0 +1,7 @@
+com\masotti\web\dao\ICityDao.class
+com\masotti\web\service\CityService.class
+com\masotti\web\dao\CityDao.class
+com\masotti\web\bean\City.class
+com\masotti\web\web\GetCities.class
+com\masotti\web\service\ICityService.class
+com\masotti\web\App.class
